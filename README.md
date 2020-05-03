@@ -1,2 +1,2 @@
 # mileage-converter-python
-A kilometres to miles convertor in python
+A kilometres to miles converter in python
